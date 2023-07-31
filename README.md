@@ -19,6 +19,7 @@ Key objectives:
 ·   Total wins by a team in a season
 ·    Matches won based on the result type# Power-BI-IPL-Project
 
+
 # Import data from PostgreSQL 
 # Data cleaning in Power Query Editor
 # DAX Functions use like Calculate, Sum, Sumx, Filter, ALLselected, values, Selectedvalue, return, Concanetate, Devide, etc
