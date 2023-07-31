@@ -19,5 +19,4 @@ Key objectives:
 ·   Total wins by a team in a season
 ·    Matches won based on the result type# Power-BI-IPL-Project
 
-
 DAX Functions like Calculate, Sum, Sumx, Filter, ALLselected, values, Selectedvalue, return, Concanetate, Devide, etc.
